@@ -1,1 +1,6 @@
 Desenvolvimento de um sistema de plataforma de áudio voltado para fins educacionais.
+
+Conceitos abrangidos:
+Encapsulamento
+Herança
+Polimorfismo 
